@@ -1,8 +1,34 @@
 
 {
-    "id": "",
-    "image": "",
+    "travelto": [
+    {"id": "XEFRF",
+    "image": "https://res.cloudinary.com/dgifdj6nx/image/upload/v1706205790/Maui_vocea3.jpg",
     "destination": "Maui",
     "all-inclusive": "YES",
-    "Rating": "4 out of 5"
+    "Rating": "4"},
+
+    {"id": "NGOBF",
+    "image": "https://res.cloudinary.com/dgifdj6nx/image/upload/v1706206265/NYC_pafigv.webp",
+    "destination": "NYC",
+    "all-inclusive": "NO",
+    "Rating": "3"},
+
+    {"id": "LKJBD",
+    "image": "https://res.cloudinary.com/dgifdj6nx/image/upload/v1706206412/ScarboroughTOBAGO_t99sg8.jpg",
+    "destination": "Scarborough",
+    "all-inclusive": "YES",
+    "Rating": "4.5"},
+
+    {"id": "SAXZD",
+    "image": "https://res.cloudinary.com/dgifdj6nx/image/upload/v1706206521/KoSamui_ktykjz.jpg",
+    "destination": "Ko Samui",
+    "all-inclusive": "YES",
+    "Rating": "5"},
+
+    {"id": "JHFGD",
+    "image": "https://res.cloudinary.com/dgifdj6nx/image/upload/v1706206658/Florence_mhartr.jpg",
+    "destination": "Florence",
+    "all-inclusive": "YES",
+    "Rating": "4"}
+    ]
 }
